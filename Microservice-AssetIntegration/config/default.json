@@ -1,0 +1,19 @@
+{
+  "PORT": 8086,
+
+  "PA_PREDIX_ZONE_ID"   : "26f5055a-f01a-4632-bb47-2c0c2c33c002",
+  "PA_URL_ASSET"        : "https://predix-asset.run.aws-usw02-pr.ice.predix.io/engines",
+  "PA_URL_UAA"          : "https://591bb6a8-a9aa-4db9-b307-3ba2c2914264.predix-uaa.run.aws-usw02-pr.ice.predix.io/oauth/token",
+  "PA_USERNAME"         : "pm-machinery-monitoring-oauth-client",
+  "PA_PASSWORD"         : "oauthsecret",
+  "DATA_REFRESH_TIME"   : 5,
+
+  "PM_EP_URL"           : "https://d1eark.run.aws-usw02-pr.ice.predix.io/",
+  "PM_BUCKET"           : "pm",
+  "PM_USERNAME"         : "user1@ey.com",
+  "PM_PASSWORD"         : "EyPredix@123",
+  "PM_UAA_URL"          : "https://591bb6a8-a9aa-4db9-b307-3ba2c2914264.predix-uaa.run.aws-usw02-pr.ice.predix.io/oauth/token",
+  "WEB_APP_NAME"        : "pm-webapp-assetintegration",
+  "WEB_APP_VERSION"     : "0.0.1"
+
+}

@@ -1,0 +1,5 @@
+assetData-WebApp/
+.DS_Store
+.git
+manifest.yml
+.cfignore
